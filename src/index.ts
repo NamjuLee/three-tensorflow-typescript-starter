@@ -1,4 +1,4 @@
-import {App} from './app/App'
-import './style.css'
-
-App.init();
+// add styles
+import './style.css';
+import { App } from './App';
+new App();
