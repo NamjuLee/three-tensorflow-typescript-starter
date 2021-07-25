@@ -18,6 +18,7 @@ export class SceneBoxRotation extends SceneBase {
     }
     public update(scene: THREE.Scene) {
         this.meshCube.rotation.x += 0.1;
+        this.meshCube.rotation.y += 0.05;
     }
 
 }
