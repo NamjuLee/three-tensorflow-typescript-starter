@@ -29,7 +29,7 @@ Scene: Points By BufferGeometry
 
 [THREE, TensorflowJS Starter](https://github.com/NamjuLee/three-tensorflow-typescript-starter)
 
-[WebGL2, React, TensorflowJS, Typescript Starter](https://github.com/NamjuLee/react-typescript-tf-webG2L-starter)
+[WebGL2, React, TensorflowJS, Typescript Starter](https://github.com/NamjuLee/react-typescript-tf-webGL2-starter)
 
 [HTML Canvas, TensorflowJS Starter](https://github.com/NamjuLee/HTML-Canvas-tensorflow-sandbox-starter)
 
